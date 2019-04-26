@@ -1,0 +1,5 @@
+ulp-lua-objs := accept.o        \
+                close.o         \
+                module.o
+
+obj-m += ulp-lua.o
