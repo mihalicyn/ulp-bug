@@ -3,7 +3,7 @@ ULP bug demonstration
 
 An minimal example of ULP driver that cause error with module refcount.
 
-1. How to caught a problem
+How to caught a problem
 ===============
 
 1. Compile and load driver:
